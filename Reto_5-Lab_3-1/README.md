@@ -1,4 +1,4 @@
-# st0263-retos
+# Scripts/comandos para reto 1/lab-1 (Setup).
 
 ### Conexión por SSH a instancia.
 
