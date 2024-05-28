@@ -35,6 +35,12 @@ hdfs dfs -mkdir /user/hadoop/datasets/gutenberg-small
 hdfs dfs -put /local-path-to-cloned-repo/* /user/hadoop/datasets/gutenberg-small
 ```
 
+### Copiar archivos a Hive.
+
+```
+hdfs dfs -put /root/st0263-241/bigdata/datasets/gutenbergsmall/*.txt /user/hadoop/datasets/gutenberg-small/
+```
+
 ### Copiar archivos a S3.
 
 ```
