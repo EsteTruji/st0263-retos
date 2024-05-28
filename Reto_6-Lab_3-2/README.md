@@ -1,4 +1,4 @@
-# Scripts/comandos para reto 2/lab 3-2.
+# Scripts/comandos para reto 6/lab 3-2.
 
 ### Query usando datos de HDI.
 
