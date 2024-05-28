@@ -1,4 +1,4 @@
-# Scripts/comandos para reto 1/lab 3-1.
+# Scripts/comandos para reto 5/lab 3-1.
 
 ### Conexión por SSH a instancia.
 
