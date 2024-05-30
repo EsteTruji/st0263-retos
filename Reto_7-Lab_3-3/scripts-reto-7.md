@@ -3,7 +3,7 @@
 ### Crear esquema myspectrum_schema.
 
 ```
-CREATE EXTERNAL SCHEMA spectrum_schema 
+CREATE EXTERNAL SCHEMA myspectrum_schema 
 FROM DATA CATALOG 
 DATABASE 'spectrum_db' 
 IAM_ROLE 'arn:aws:iam::<your-account-id>:role/LabRole' 
