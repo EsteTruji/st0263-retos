@@ -53,7 +53,7 @@ starttime timestamp);
 
 ```
 COPY event2 FROM 's3://etrujilloc-datasets/tickit2/allevents_pipe/allevents_pipe.txt'
-iam role 'arn:aws:iam::<your-account-id>:role/LabRole'
+iam_role 'arn:aws:iam::<your-account-id>:role/LabRole'
 delimiter '|' timeformat 'YYYY-MM-DD HH:MI:SS' region 'us-east-1';
 ```
 
